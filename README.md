@@ -11,6 +11,7 @@ SQL – Core language used for data exploration and transformation
 
 4.Data Source :
 The data used in this project was sourced from Our World in Data, a reputable open-source platform that compiles global COVID-19 statistics from organizations like the World Health Organization (WHO) and Johns Hopkins University.
+
 • Contains daily time-series data on COVID-19 cases, deaths, population, and vaccinations.
 • Structured by country and date for easy aggregation, filtering, and trend analysis.
 Source: ourworldindata.org 
