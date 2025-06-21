@@ -21,6 +21,7 @@ Source: ourworldindata.org
 
 • Goal :
 To analyze global COVID-19 data using SQL in order to uncover meaningful insights about infection trends, death rates, and vaccination progress across countries and continents.
+
 • Walkthrough on Key Visuals :
 The dashboard begins with high-level summary cards showing total cases, deaths, vaccinations, and global death rate. A bar chart highlights the countries with the highest infection rates relative to their population, while a line chart tracks the death rate trend over time. Vaccination progress is visualized through a cumulative line chart, showing how different countries rolled out vaccines. Continent-wise comparisons are displayed using grouped bar charts, and interactive drill-through features allow users to explore detailed statistics for specific countries or regions.
 
