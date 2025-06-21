@@ -11,17 +11,13 @@ SQL – Core language used for data exploration and transformation
 
 4.Data Source :
 The data used in this project was sourced from Our World in Data, a reputable open-source platform that compiles global COVID-19 statistics from organizations like the World Health Organization (WHO) and Johns Hopkins University.
-
 • Contains daily time-series data on COVID-19 cases, deaths, population, and vaccinations.
-
 • Structured by country and date for easy aggregation, filtering, and trend analysis.
 Source: ourworldindata.org 
 
 5. Feature and Highlights
-
 • Goal :
 To analyze global COVID-19 data using SQL in order to uncover meaningful insights about infection trends, death rates, and vaccination progress across countries and continents.
-
 • Walkthrough on Key Visuals :
 The dashboard begins with high-level summary cards showing total cases, deaths, vaccinations, and global death rate. A bar chart highlights the countries with the highest infection rates relative to their population, while a line chart tracks the death rate trend over time. Vaccination progress is visualized through a cumulative line chart, showing how different countries rolled out vaccines. Continent-wise comparisons are displayed using grouped bar charts, and interactive drill-through features allow users to explore detailed statistics for specific countries or regions.
 
